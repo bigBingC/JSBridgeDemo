@@ -1,0 +1,36 @@
+{
+  "name": "JSWebKit",
+  "version": "0.0.1",
+  "summary": "A short description of JSWebKit.",
+  "description": "iOS架构接入web组件，用来展示web相关页面及交互",
+  "homepage": "../",
+  "license": "MIT",
+  "authors": {
+    "cuibing": "cuibing@dankegongyu.com"
+  },
+  "source": {
+    "git": "",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Class",
+    "Class/**/*.{h,m}"
+  ],
+  "exclude_files": "Class/Exclude",
+  "resource_bundles": {
+    "JSWebKit": [
+      "Class/**/*.{storyboard,xib,xcassets,plist,jpg,png}"
+    ]
+  },
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  },
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

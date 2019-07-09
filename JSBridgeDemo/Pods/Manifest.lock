@@ -1,0 +1,32 @@
+PODS:
+  - DKResourceLinkKit (0.0.1)
+  - JSWebKit (0.0.1):
+    - Masonry
+  - Masonry (1.1.0)
+  - WebViewJavascriptBridge (6.0.3)
+
+DEPENDENCIES:
+  - DKResourceLinkKit (from `../DKResourceLinkKit`)
+  - JSWebKit (from `../JSWebKit`)
+  - WebViewJavascriptBridge
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - WebViewJavascriptBridge
+
+EXTERNAL SOURCES:
+  DKResourceLinkKit:
+    :path: "../DKResourceLinkKit"
+  JSWebKit:
+    :path: "../JSWebKit"
+
+SPEC CHECKSUMS:
+  DKResourceLinkKit: d94cdb29e512b094923ab1028dea228e2549db22
+  JSWebKit: aec0cdf769706fad7c4436f96871380d38484b84
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+
+PODFILE CHECKSUM: 802bd4b3c8798d3cd5419b815bc2f12afeea75f9
+
+COCOAPODS: 1.6.1

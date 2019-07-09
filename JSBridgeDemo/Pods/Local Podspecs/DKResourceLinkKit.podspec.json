@@ -1,0 +1,26 @@
+{
+  "name": "DKResourceLinkKit",
+  "version": "0.0.1",
+  "summary": "A short description of DKResourceLinkKit.",
+  "description": "不同bundle加载资源类",
+  "homepage": "../",
+  "license": "MIT",
+  "authors": {
+    "cuibing": "cuibing@dankegongyu.com"
+  },
+  "source": {
+    "git": "",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Class",
+    "Class/**/*.{h,m}"
+  ],
+  "exclude_files": "Class/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
